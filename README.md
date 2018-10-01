@@ -1,4 +1,4 @@
 # hello-world
-My first repisitory yay
+My first repository yay
 
 I love coding!
